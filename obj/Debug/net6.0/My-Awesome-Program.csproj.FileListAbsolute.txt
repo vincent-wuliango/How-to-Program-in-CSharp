@@ -1,0 +1,15 @@
+D:\Documents\SYeN-Projects\Game-Development\My-Awesome-Program\bin\Debug\net6.0\My-Awesome-Program.exe
+D:\Documents\SYeN-Projects\Game-Development\My-Awesome-Program\bin\Debug\net6.0\My-Awesome-Program.deps.json
+D:\Documents\SYeN-Projects\Game-Development\My-Awesome-Program\bin\Debug\net6.0\My-Awesome-Program.runtimeconfig.json
+D:\Documents\SYeN-Projects\Game-Development\My-Awesome-Program\bin\Debug\net6.0\My-Awesome-Program.dll
+D:\Documents\SYeN-Projects\Game-Development\My-Awesome-Program\bin\Debug\net6.0\My-Awesome-Program.pdb
+D:\Documents\SYeN-Projects\Game-Development\My-Awesome-Program\obj\Debug\net6.0\My-Awesome-Program.csproj.AssemblyReference.cache
+D:\Documents\SYeN-Projects\Game-Development\My-Awesome-Program\obj\Debug\net6.0\My-Awesome-Program.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\SYeN-Projects\Game-Development\My-Awesome-Program\obj\Debug\net6.0\My-Awesome-Program.AssemblyInfoInputs.cache
+D:\Documents\SYeN-Projects\Game-Development\My-Awesome-Program\obj\Debug\net6.0\My-Awesome-Program.AssemblyInfo.cs
+D:\Documents\SYeN-Projects\Game-Development\My-Awesome-Program\obj\Debug\net6.0\My-Awesome-Program.csproj.CoreCompileInputs.cache
+D:\Documents\SYeN-Projects\Game-Development\My-Awesome-Program\obj\Debug\net6.0\My-Awesome-Program.dll
+D:\Documents\SYeN-Projects\Game-Development\My-Awesome-Program\obj\Debug\net6.0\refint\My-Awesome-Program.dll
+D:\Documents\SYeN-Projects\Game-Development\My-Awesome-Program\obj\Debug\net6.0\My-Awesome-Program.pdb
+D:\Documents\SYeN-Projects\Game-Development\My-Awesome-Program\obj\Debug\net6.0\My-Awesome-Program.genruntimeconfig.cache
+D:\Documents\SYeN-Projects\Game-Development\My-Awesome-Program\obj\Debug\net6.0\ref\My-Awesome-Program.dll
